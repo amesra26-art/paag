@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TextView
+    android:id="@+id/tvMezua"
+    android:layout_width="294dp"
+    android:layout_height="40dp"
+    android:text="Sartu bi zenbaki:"/>
+
+<TextView
+    android:id="@+id/tvEmaitza"
+    android:layout_width="289dp"
+    android:layout_height="53dp"
+    android:text="Emaitza"
+    android:textSize="34sp" />
+
+<Button
+    android:id="@+id/bBatuketa"
+    android:layout_width="283dp"
+    android:layout_height="80dp"
+    android:onClick="batuketa"
+    android:text="Batuketa" />
+
+<Button
+    android:id="@+id/bBiderkaketa"
+    android:layout_width="290dp"
+    android:layout_height="74dp"
+    android:onClick="biderkaketa"
+    android:text="Biderkaketa" />
+
+<EditText
+    android:id="@+id/etZenb1"
+    android:layout_width="302dp"
+    android:layout_height="47dp"
+    android:hint="1 Zenbakia"
+    android:inputType="number" />
+
+<EditText
+    android:id="@+id/etZenb2"
+    android:layout_width="306dp"
+    android:layout_height="60dp"
+    android:hint="2 Zenbakia"
+    android:inputType="number" />

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FichaTecnica>
+    <Titulo>FICHA TÉCNICA</Titulo>
+    <Pelicula>
+        <Direccion>Guillermo del Toro y Mark Gustafson</Direccion>
+        <Pais>Estados Unidos</Pais>
+        <Año>2022</Año>
+        <FechaEstreno>25-11-2022</FechaEstreno>
+        <Genero>Drama, fantástico</Genero>
+        <Guion>Guillermo del Toro, Patrick McHale (basada en la historia de Carlo Collodi)</Guion>
+        <Duracion>117 min.</Duracion>
+        <Sinopsis>Durante el auge del fascismo en la Italia de Mussolini, un niño de madera resucitado por arte de magia lucha por estar a la altura de las expectativas de su padre.</Sinopsis>
+    </Pelicula>
+</FichaTecnica>
